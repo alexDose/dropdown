@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 13px;
+    background: #F4F4F4;
+    border-radius: 10px;
+    margin: 0 14px 4px;
+}
+
+.searchBlock {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+input {
+    border: none;
+    background: #F4F4F4;
+    outline: none;
+    width: 300px;
+}
+
+.CrossButton {
+    display: flex;
+    align-items: center;
+}
